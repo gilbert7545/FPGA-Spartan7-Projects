@@ -1,4 +1,25 @@
 # FPGA-Spartan7-Projects
+
+## 📚 Learning Resources & References
+
+These projects were developed through self-learning, experimentation, AI-assisted debugging, and FPGA documentation resources.
+
+Helpful references used during development include:
+
+- RealDigital FPGA Documentation  
+  https://www.realdigital.org/doc/02013cd17602c8af749f00561f88ae21
+
+- Digilent Clock Divider Tutorial  
+  https://digilent.com/reference/learn/programmable-logic/tutorials/use-flip-flops-to-build-a-clock-divider/start
+
+Additional understanding was built through:
+- Vivado experimentation
+- FPGA debugging
+- Verilog simulations
+- AI-assisted problem solving and design exploration
+
+
+
 ## 🔌 FPGA Pin Assignments
 
 The projects were implemented on the Spartan-7 FPGA Boolean Board using Vivado I/O pin constraints.
