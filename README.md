@@ -59,3 +59,15 @@ were mapped to dedicated FPGA package pins through Vivado I/O planning.
 These assignments enabled real-time hardware verification on the Spartan-7 FPGA board.
 
 > 📷 Constraint and I/O planning screenshots are available in the `constraints/` or project image sections for reference.
+
+
+
+
+
+# 🧰 Hardware Used
+
+- Spartan-7 FPGA Boolean Board
+- SSD1331 OLED Display (PmodOLEDrgb)
+- PmodKYPD Keypad
+- Seven Segment Display
+- On-board LEDs & Switches
