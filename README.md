@@ -2,7 +2,7 @@
 
 ## 📚 Learning Resources & References
 
-These projects were developed through self-learning, experimentation, AI-assisted debugging, and FPGA documentation resources.
+These projects were developed through self-learning, experimentation, FPGA documentation, and AI-assisted development workflows.
 
 Helpful references used during development include:
 
@@ -12,12 +12,15 @@ Helpful references used during development include:
 - Digilent Clock Divider Tutorial  
   https://digilent.com/reference/learn/programmable-logic/tutorials/use-flip-flops-to-build-a-clock-divider/start
 
-Additional understanding was built through:
+Additional understanding and debugging support were assisted through:
+- ChatGPT
+- GitHub Copilot
 - Vivado experimentation
 - FPGA debugging
 - Verilog simulations
-- AI-assisted problem solving and design exploration
+- Online FPGA and embedded systems resources
 
+These resources were used to improve understanding, debugging, and implementation of FPGA-based systems.
 
 
 ## 🔌 FPGA Pin Assignments
